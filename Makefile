@@ -1,4 +1,4 @@
-CC=gcc
+CC=cc
 
 main.out: main
 	./main | tee main.out
